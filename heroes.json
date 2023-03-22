@@ -1,0 +1,70 @@
+{
+  "heroes": [
+    {
+      "name": "Ember spitit",
+      "text": "make much fire",
+      "element": "fire",
+      "id": "019dad7f-2a07-46a6-98c2-1b5d6342963d"
+    },
+    {
+      "name": "Void spirit",
+      "text": "",
+      "element": "wind",
+      "description": "Make drive in blackhome",
+      "id": "c3d4ce5f-4b20-49a5-8eb1-28b5901f5350"
+    },
+    {
+      "name": "Earth Spirit",
+      "text": "",
+      "description": "He can push and roll stone",
+      "element": "earth",
+      "id": "2f1d0211-3837-40ee-92d7-bb7baae09da8"
+    },
+    {
+      "name": "Storm Spirit",
+      "text": "",
+      "description": "He can drive on lighting and hit thunder touch",
+      "element": "wind",
+      "id": "0f63adc2-9868-49cb-ae16-96904e34b611"
+    },
+    {
+      "name": "Morphling",
+      "text": "",
+      "description": "He can drive on wave",
+      "element": "water",
+      "id": "1ff84cff-ad84-41ec-a9a3-3c2201aa6df6"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
